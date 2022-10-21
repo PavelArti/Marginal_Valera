@@ -1,0 +1,8 @@
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\bin\Debug\lab 2.exe.config
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\bin\Debug\lab 2.exe
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\bin\Debug\lab 2.pdb
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\obj\Debug\lab 2.csproj.AssemblyReference.cache
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\obj\Debug\lab 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\obj\Debug\lab 2.csproj.CoreCompileInputs.cache
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\obj\Debug\lab 2.exe
+C:\Users\apash\Desktop\учебные штуки\4 курс\web\lab 2\lab 2\obj\Debug\lab 2.pdb
